@@ -1,3 +1,5 @@
+[![Docker Hub Build Status](https://dockerbuildbadges.quelltext.eu/status.svg?organization=burkeazbill&repository=docker-coredns)](https://hub.docker.com/r/burkeazbill/docker-coredns) [![Build Status](https://travis-ci.org/burkeazbill/docker-coredns.svg?branch=master)](https://travis-ci.org/burkeazbill/docker-coredns)
+
 # Docker CoreDNS
 
 ## Overview
