@@ -1,0 +1,7 @@
+services:
+  - docker
+install:
+  - docker build -t coredns .
+  - docker run -d -p 127.0.0.1:53:53 --name coredns coredns
+script:
+  - docker ps | grep -q coredns 
