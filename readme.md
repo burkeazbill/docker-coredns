@@ -1,4 +1,4 @@
-[![Docker Hub Build Status](https://dockerbuildbadges.quelltext.eu/status.svg?organization=burkeazbill&repository=docker-coredns)](https://hub.docker.com/r/burkeazbill/docker-coredns) [![Build Status](https://travis-ci.org/burkeazbill/docker-coredns.svg?branch=master)](https://travis-ci.org/burkeazbill/docker-coredns)[![](https://images.microbadger.com/badges/image/burkeazbill/docker-coredns.svg)](https://microbadger.com/images/burkeazbill/docker-coredns "Get your own image badge on microbadger.com")
+[![Docker Hub Build Status](https://img.shields.io/docker/build/burkeazbill/docker-coredns)](https://hub.docker.com/r/burkeazbill/docker-coredns) [![Build Status](https://travis-ci.org/burkeazbill/docker-coredns.svg?branch=master)](https://travis-ci.org/burkeazbill/docker-coredns)[![](https://images.microbadger.com/badges/image/burkeazbill/docker-coredns.svg)](https://microbadger.com/images/burkeazbill/docker-coredns "Get your own image badge on microbadger.com")
 
 # Docker CoreDNS
 
