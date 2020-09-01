@@ -1,4 +1,4 @@
-FROM coredns/coredns:1.6.9
+FROM coredns/coredns:1.7.0
 
 LABEL maintainer="Burke Azbill"
 
