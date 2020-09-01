@@ -28,10 +28,10 @@ Once you're done, simply type the following command to run the container in daem
 docker-compose up -d
 ```
 
-Prefer to simply run docker from the command line?
+Prefer to simply run docker from the command line? Example shows call for latest image. 
 
 ```plain
-docker run -m 128m --expose=53 --expose=53/udp -p 53:53 -p 53:53/udp -v "$PWD"/config:/etc/coredns --name coredns burkeazbill/docker-coredns:1.1.4 -conf /etc/coredns/Corefile
+docker run -m 128m --expose=53 --expose=53/udp -p 53:53 -p 53:53/udp -v "$PWD"/config:/etc/coredns --name coredns burkeazbill/docker-coredns -conf /etc/coredns/Corefile
 ```
 
 ## Test the DNS
